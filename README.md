@@ -1,6 +1,6 @@
 [<img src="https://hotio.dev/img/sabnzbd.png" alt="logo" height="130" width="130">](https://github.com/sabnzbd/sabnzbd)
 
-[![GitHub Source](https://img.shields.io/badge/github-source-ffb64c?style=flat-square&logo=github&logoColor=white&labelColor=757575)](https://github.com/docker-hotio/docker-sabnzbd)
+[![GitHub Source](https://img.shields.io/badge/github-source-ffb64c?style=flat-square&logo=github&logoColor=white&labelColor=757575)](https://github.com/hotio/sabnzbd)
 [![GitHub Registry](https://img.shields.io/badge/github-registry-ffb64c?style=flat-square&logo=github&logoColor=white&labelColor=757575)](https://github.com/users/hotio/packages/container/package/sabnzbd)
 [![Docker Pulls](https://img.shields.io/docker/pulls/hotio/sabnzbd?color=ffb64c&style=flat-square&label=pulls&logo=docker&logoColor=white&labelColor=757575)](https://hub.docker.com/r/hotio/sabnzbd)
 [![Discord](https://img.shields.io/discord/610068305893523457?style=flat-square&color=ffb64c&label=discord&logo=discord&logoColor=white&labelColor=757575)](https://hotio.dev/discord)
@@ -31,9 +31,9 @@ The [highlighted](https://hotio.dev/containers/sabnzbd) variables are all option
 
 | Tag                | Upstream                       | Version | Build |
 | -------------------|--------------------------------|---------|-------|
-| `release` (latest) | GitHub releases                | ![version](https://img.shields.io/badge/dynamic/json?color=f5f5f5&style=flat-square&label=&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fdocker-hotio%2Fdocker-sabnzbd%2Frelease%2FVERSION.json) | ![build](https://img.shields.io/github/workflow/status/docker-hotio/docker-sabnzbd/build/release?style=flat-square&label=) |
-| `testing`          | GitHub pre-releases            | ![version](https://img.shields.io/badge/dynamic/json?color=f5f5f5&style=flat-square&label=&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fdocker-hotio%2Fdocker-sabnzbd%2Ftesting%2FVERSION.json) | ![build](https://img.shields.io/github/workflow/status/docker-hotio/docker-sabnzbd/build/testing?style=flat-square&label=) |
-| `nightly`          | Every commit to develop branch | ![version](https://img.shields.io/badge/dynamic/json?color=f5f5f5&style=flat-square&label=&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fdocker-hotio%2Fdocker-sabnzbd%2Fnightly%2FVERSION.json) | ![build](https://img.shields.io/github/workflow/status/docker-hotio/docker-sabnzbd/build/nightly?style=flat-square&label=) |
+| `release` (latest) | GitHub releases                | ![version](https://img.shields.io/badge/dynamic/json?color=f5f5f5&style=flat-square&label=&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhotio%2Fsabnzbd%2Frelease%2FVERSION.json) | ![build](https://img.shields.io/github/workflow/status/hotio/sabnzbd/build/release?style=flat-square&label=) |
+| `testing`          | GitHub pre-releases            | ![version](https://img.shields.io/badge/dynamic/json?color=f5f5f5&style=flat-square&label=&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhotio%2Fsabnzbd%2Ftesting%2FVERSION.json) | ![build](https://img.shields.io/github/workflow/status/hotio/sabnzbd/build/testing?style=flat-square&label=) |
+| `nightly`          | Every commit to develop branch | ![version](https://img.shields.io/badge/dynamic/json?color=f5f5f5&style=flat-square&label=&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhotio%2Fsabnzbd%2Fnightly%2FVERSION.json) | ![build](https://img.shields.io/github/workflow/status/hotio/sabnzbd/build/nightly?style=flat-square&label=) |
 
 You can also find tags that reference a commit or version number.
 
