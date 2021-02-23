@@ -4,21 +4,21 @@
       "name": "release",
       "version": "3.1.1",
       "commit": "73ec6d9",
-      "upstream": "",
+      "upstream": "Releases",
       "lastUpdated": "2021-02-23T13:10:00.065Z"
     },
     {
       "name": "testing",
       "version": "3.2.0RC2",
       "commit": "9fe3061",
-      "upstream": "",
+      "upstream": "Pre-releases",
       "lastUpdated": "2021-02-23T13:10:15.855Z"
     },
     {
       "name": "nightly",
       "version": "5ec41bafbeb24727cc797d45fe67f7c7496001e3",
       "commit": "19a9349",
-      "upstream": "",
+      "upstream": "Every commit to develop",
       "lastUpdated": "2021-02-23T13:10:59.869Z"
     }
   ]
